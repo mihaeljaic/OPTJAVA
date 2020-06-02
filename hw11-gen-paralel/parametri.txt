@@ -1,0 +1,7 @@
+rectangleCount = 200
+populationSize = 100
+maxGenerations = 20000
+minError = 0.0
+contendersCount = 20
+probability = 0.05
+sigma = 10

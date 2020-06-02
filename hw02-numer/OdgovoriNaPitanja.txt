@@ -1,0 +1,8 @@
+Pitanje 1b:
+Obje metode pronađu minimum u prvoj iteraciji.
+
+Pitanje  2a:
+Potrebno je više iteracija, zato što u funkciji članovi x1^2 i x2^2 imaju dosta različite koeficijente.
+
+Pitanje 2b:
+Rješenje se ponovno dobije u prvom koraku. Dosta brže od a) dijela zadataka. 
