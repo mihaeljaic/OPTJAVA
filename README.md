@@ -1,2 +1,2 @@
 # OPTJAVA
-Solved homeworks for Solving optimization problems using evolutionary computation algorithms in Java course at FER
+Solved homeworks for [Solving optimization problems using evolutionary computation algorithms in Java](https://www.fer.unizg.hr/predmet/ropaeruj) course at FER
